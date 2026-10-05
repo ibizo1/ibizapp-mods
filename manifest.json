@@ -1,0 +1,19 @@
+﻿{
+    "version":  5,
+    "updated":  "2026-10-05T03:55:12Z",
+    "resources":  [
+                      {
+                          "image":  "images/magnus.jpg",
+                          "name":  "Magnus Rojo",
+                          "id":  "magnus-rojo",
+                          "type":  "vpk",
+                          "size":  468276,
+                          "version":  1,
+                          "category":  "hero",
+                          "description":  "Set personalizado Magnus Rojo",
+                          "sha256":  "180fd1b08aef08d009a5394de405d8319c8eafafe06aa27f2dc363213fb90753",
+                          "hero":  "npc_dota_hero_magnus",
+                          "file":  "mods/Magnus Shock of the Anvil Crimson.vpk"
+                      }
+                  ]
+}
